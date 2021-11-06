@@ -12,7 +12,7 @@ Properly handling the dates between the XML File and Excel is actually quite eas
 
 ### Walkthrough Documentation: See PDF
 
-### YouTube demo: TBD
+### YouTube demo: https://youtu.be/vmpWmIq-xdE
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
